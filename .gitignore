@@ -15,5 +15,5 @@
 _*
 *~
 build/
-klib
+klib/
 !.gitignore
