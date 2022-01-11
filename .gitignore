@@ -15,4 +15,7 @@
 _*
 *~
 build/
+klib
 !.gitignore
+main.c
+
